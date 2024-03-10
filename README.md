@@ -1,4 +1,5 @@
 Matthew Le
+
 CSCI 576 Assignment 2
 
 Compile program by typing javac MyCompression.java
